@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vcc
+ *
+ */
+module firstjavaproject {
+}
